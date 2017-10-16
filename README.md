@@ -18,9 +18,9 @@ I intend to redesign a web version of Anki's Spaced Repetition System(SRS)/&ldqu
 
 ## Wireframes <a id="wireframes"></a>
 **Index Page**
-![Mobile](https://github.com/Tokuhisa1/ankify/blob/dev/assets/wireframes/mobile.jpg?raw=true)
+![Mobile](https://github.com/Tokuhisa1/ankify/blob/dev/assets/wireframes/Mobile.jpg?raw=true)
 
-![Desktop](https://github.com/Tokuhisa1/ankify/blob/dev/assets/wireframes/desktop.jpg?raw=true)
+![Desktop](https://github.com/Tokuhisa1/ankify/blob/dev/assets/wireframes/Desktop.jpg?raw=true)
 
 **Show Page**
 ![Show Page](https://github.com/Tokuhisa1/learned/blob/rails/assets/wireframes/IMG_6021.JPG?raw=true)
