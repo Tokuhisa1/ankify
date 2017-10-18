@@ -56,14 +56,14 @@ You are **responsible** for scheduling time with your squad to seek approval for
 | Day 09: **Saturday** (10/14/2017)  | "Last Minute" Bug Fixing | 3 hours  | N/A |
 | Day 10: **Sunday** (10/15/2017)    | Finetuning Presentation | 5 hours | N/A |
 | Day 11: **Monday** (10/16/2017)    | Scope Revision    | 1 hour  | 5 hours |
-|                                    | React Review | 2 hours |        |
-| Day 12: **Tuesday** (10/17/2017)   | App Set-Up | 1 hour  |        |
+|                                    | React Review | 2 hours |   N/A    |
+| Day 12: **Tuesday** (10/17/2017)   | Scope Revision    | 1 hour  | 5 hours |
+| Day 13: **Wednesday** (10/18/2017) | App Set-Up | 1 hour  |        |
 | React Front-End                    | Build Components | 2 hours  |        |
 |                                    | Construct Views | 2 hours |  |
 |                                    | React Routes | 2 hours |  |
 |                                    | Deconstruct React-Rails App | 1 hour |        |
-| Day 13: **Wednesday** (10/18/2017) | API Set-Up | 1 hour |        |
+| Day 14: **Thursday** (10/19/2017)  | API Set-Up | 1 hour |        |
 | Rails Back-End                     | Build Controllers | 2 hours  |        |
 |                                    | Rails Routes | 2 hours |  |
-|Day 14: **Thursday** (10/19/2017)   | CSS Styling/Finetuning Presentation | 6 hours |        |
-|Day 15: **Friday** (10/20/2017)   | Presentation |   |        |
+| Day 15: **Friday** (10/20/2017)    | CSS Styling/Finetuning Presentation | 6 hours |        |
