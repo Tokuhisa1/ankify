@@ -1,0 +1,23 @@
+/* MASTER */
+1. Change into parent directory, clone the repo, change into the new directory and open the text editor:
+  "cd wdi/projects/project-4/ &&
+  git clone git@github.com:Tokuhisa1/ankify.git && cd ankify && subl ."
+
+2. Create additional branch(es) for project:
+  "git co -b dev"
+
+3. Reproduce branch(es) on GitHub:
+  "git push"
+
+4. In the Development branch, create necessary directory/ies:
+  "mkdir assets"
+
+5. Create the Git Ignore file:
+  "touch .gitignore"
+
+6. After adding the filename to .gitignore, create a file for documenting steps:
+  "touch sequence.txt"
+
+/* RAILS */
+7. After adding the template content to the .gitignore, create the Rails API, without ActiveRecord or tests:
+  "rails new ankify --api -GOT"
