@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 
 import Header from './components/partials/Header';
-import Footer from './components/partials/Footer';
+// import Footer from './components/partials/Footer';
 
 import { Route, Redirect, Switch } from 'react-router-dom';
 import Home from './components/Home';
@@ -18,7 +18,7 @@ class App extends Component {
 
         <main id="background">
           <Switch>
-            <Route path="/decks/:id/card/:id" component={Card} />
+            <Route path="/decks/:id/cards/:id" component={Card} />
             <Route path="/decks/:id" component={Deck} />
             <Route path="/decks" component={DeckList} />
             <Route exact path="/" component={Home} />
@@ -27,7 +27,7 @@ class App extends Component {
           </Switch>
         </main>
 
-        <Footer />
+        {/* <Footer /> */}
       </div>
     );
   }
