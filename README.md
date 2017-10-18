@@ -57,7 +57,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 | Day 10: **Sunday** (10/15/2017)    | Finetuning Presentation | 5 hours | N/A |
 | Day 11: **Monday** (10/16/2017)    | Scope Revision    | 1 hour  | 5 hours |
 |                                    | React Review | 2 hours |   N/A    |
-| Day 12: **Tuesday** (10/17/2017)   | Scope Revision    | 1 hour  | 5 hours |
+| Day 12: **Tuesday** (10/17/2017)   |                  |   |  |
 | Day 13: **Wednesday** (10/18/2017) | App Set-Up | 1 hour  |        |
 | React Front-End                    | Build Components | 2 hours  |        |
 |                                    | Construct Views | 2 hours |  |
