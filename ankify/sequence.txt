@@ -18,6 +18,12 @@
 6. After adding the filename to .gitignore, create a file for documenting steps:
   "touch sequence.txt"
 
+/* REACT */
+Source: https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/
+
+7. Make the react sub-application:
+  "create-react-app client"
+
 /* RAILS */
 7. After adding the template content to the .gitignore, create the Rails API, without ActiveRecord or tests:
   "rails new ankify --api -GOT"
