@@ -10,7 +10,7 @@
 
 
 ## Statement of Purpose/Mission Statement <a id="purpose"></a>
-I intend to redesign a web version of Anki's Spaced Repetition System(SRS)/&ldquo;smart&rdquo; flashcard application using React and Ruby on Rails to solve the problem of learners who need to retain large amounts of complex information.
+I intend to redesign a web version of [Anki](https://apps.ankiweb.net/)'s Spaced Repetition System(SRS)/&ldquo;smart&rdquo; flashcard application using React and Ruby on Rails to solve the problem of learners who need to retain large amounts of complex information.
 [Example Use Case](https://medium.freecodecamp.org/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c)
 
 ## Time-Priority Matrix <a id="matrix"></a>
