@@ -5,6 +5,7 @@ const Header = () => {
   return (
     <header className="header">
       <a href="https://apps.ankiweb.net/">
+        {/* How do I get the logo to show? */}
         <img src="../../anki-logo.png"></img>
       </a>
       <Nav />
