@@ -1,0 +1,15 @@
+.header, .footer {
+  background-color: #0050b3;
+}
+
+.header li, .footer {
+  text-align: center;
+}
+
+.footer {
+  color: white;
+}
+
+#heart {
+  color: red;
+}
