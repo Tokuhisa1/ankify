@@ -2,7 +2,7 @@
   background-color: #0050b3;
 }
 
-.header li, .footer {
+.header li, .footer, #deck-list {
   text-align: center;
 }
 

@@ -36,7 +36,7 @@ class DeckList extends Component {
 
   render() {
     return (
-      <div className="deck-list">
+      <div id="deck-list">
         <div>
           {(this.state.apiDataLoaded) ? this.showDecksOnPage() : <p>Loading. . .</p>}
         </div>
